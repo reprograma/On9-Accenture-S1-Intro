@@ -1,3 +1,6 @@
+[APRESENTAÇÃO](https://docs.google.com/presentation/d/1_OKGxBs17MITsC1jJoIloaVasEWcfh_s98voX8ffM5Q/edit?usp=sharing)
+
+### Resolvendo conflitos de código
 Criar uma branch a partir da master chamada `ex8-seuNome`
 
 Ir no arquivo [index.html](index.html) e alterar a linha `<h1> Oi, meu nome é <b>Usuário teste</b></h1>` com o seu nome.
