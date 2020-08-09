@@ -1,3 +1,5 @@
+[APRESENTAÇÃO](https://docs.google.com/presentation/d/14xd9YS-5exArIv23Zd_sy6oXlCXUJpELCeAmwlijEBY/edit?usp=sharing)
+
 ### Contribuindo com um projeto da Reprograma
 - Entrar o repositório do projeto da Reprograma: https://github.com/reprograma/On9-Accenture-S1-Intro
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.

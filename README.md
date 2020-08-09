@@ -2,13 +2,13 @@
 
 Turma Online 9 - Accenture  | Back-end | 2020 | Semana 1 | Conceitos Introdutórios e Git
 
-Esse conteúdo foi feito com referência nos seguintes materiais:
+Esse conteúdo foi feito com referência e cópia nos seguintes materiais:
  - [Turma Online 1 - Github](https://github.com/reprograma/CursoOnline-Aula3-Git-and-Github)
  - [Turma Online 2 - Github](https://github.com/reprograma/On2-git-e-github)
  - [Turma Online 3 - Github](https://github.com/reprograma/On3-git-e-github)
- - [Turma 6 - Github](https://github.com/reprograma/github)
  - [Turma Online 4 - Github](https://github.com/reprograma/On4-git-e-github)
  - [Turma Online 5 - Github](https://github.com/reprograma/On5-git-e-github)
+ - [Turma 6 - Github](https://github.com/reprograma/github)
  - [Ramificação git](https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-O-que-%C3%A9-um-Branch)
 
 ## [Conteúdo - 08/08/2020](#conteúdo)

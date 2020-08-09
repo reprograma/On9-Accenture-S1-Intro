@@ -1,3 +1,5 @@
+[APRESENTAÇÃO](https://docs.google.com/presentation/d/1tVKFJBeazctaPQuOcd7A9jnc-BNbGImXlZ73UMvD3eg/edit?usp=sharing)
+
 ### Clonando repositórios das aulas anteriores
 - Entrar o GitHub da Paula: https://github.com/itsalle/js-pokemon-api
 - Copiar o link HTTP que aparece ao clicar no botão verde ***Clone or download***.

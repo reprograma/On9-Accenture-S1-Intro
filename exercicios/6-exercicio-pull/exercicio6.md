@@ -1,3 +1,5 @@
+[APRESENTAÇÃO](https://docs.google.com/presentation/d/1Y8rcYsun6wVgdN_LlLWPT9qYoICedPWb_hEP82XvWbk/edit?usp=sharing)
+
 ### Atualizando seu repositório local
 - Entrar no Git Bash dentro da pasta que deseja atualizar.
 - `git remote -v`: verificar se o endereço remoto está apontando para o repositório remoto correto.
