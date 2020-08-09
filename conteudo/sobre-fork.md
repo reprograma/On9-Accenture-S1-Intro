@@ -147,3 +147,5 @@ Agora para atualizar a master do projeto copiado(fork) com o repositorio online 
 - `git pull upstream master`
 
 <img src="../imgs/fork/fork-pull-upstream.png" alt="Terminal mostrando o que vem no origin, deve conter o link do clone" />
+
+[<- Sobre linha de comando](sobre-linha-de-comando.md) |

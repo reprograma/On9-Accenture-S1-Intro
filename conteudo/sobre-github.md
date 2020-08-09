@@ -36,4 +36,4 @@ Resumidamente: Você trabalha na sua máquina e salva versões do seu código no
 > A diferença entre git e github é que o git é só uma ferramenta para versionar projetos, enquanto o github é o site no qual você colocará esses projetos versionados. uma analogia válida seria que o git é seu pincel e tintas enquanto o github é um museu.
 - [Fonte: Ratamero](http://www.ratamero.com/blog/git-e-github-parte-1-o-que-sao-e-como-usar/)
 
-[<- Sobre linha de comando](sobre-linha-de-comando.md) | [Sobre fluxo de trabalho ->](sobre-fluxo-de-trabalho.md)
+[<- Sobre linha de comando](sobre-linha-de-comando.md) | [Sobre fork ->](sobre-fork.md)
