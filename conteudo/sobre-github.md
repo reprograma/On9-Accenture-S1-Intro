@@ -13,7 +13,7 @@
 
 O git nos ajuda a versionar nossos arquivos localmente, porém para podermos trabalhar em equipe e manter nossos arquivos seguros precisamos disponibilizar nosso projeto online, e para isso existem as hospedagens de repositórios, sites que são capazes de manter a lógica de versionamento do git:
 
-<img src="imgs/github/hospedagem.png" alt="Logo de 3 hospedagens disponíveis: github, gitlab e bitbucket" />
+<img src="../imgs/github/hospedagem.png" alt="Logo de 3 hospedagens disponíveis: github, gitlab e bitbucket" />
 Esses são exemplos das principais hospedagens de repositórios disponíveis: Github, Gitlab e Bitbucket.
 
 Nesse curso utilizaremos o github.

@@ -42,7 +42,7 @@
 * Entrar nesse repositório local
 
 	```
-  cd On9-Accenture-S1-Intro/8-projeto-casa
+  cd On9-Accenture-S1-Intro/8-exercicio-projeto-casa
   ```
 * Listar as branchs existentes.
 
@@ -59,7 +59,7 @@
 	```
   code .
   ```
-* Entrar na pasta 8-projeto-casa e siga as instruções a seguir.
+* Entrar na pasta 8-exercicio-projeto-casa e siga as instruções a seguir.
 * Alterar a imagem e o link para seu github na `<div>` que contiver seu nome.
 	* Use o link do seu github para colocar no ***href*** na tag `<a>`. (Ex: https://github.com/reprograma)
 	* Use o link da imagem do seu avatar no github para colocar no ***src*** da tag `<img>`. Clique com o botão direito sobre a imagem do seu perfil no github e copie o endereço da imagem. (Ex: https://avatars2.githubusercontent.com/u/41296983?s=460&u=d69e452fb89212415aca4769125d7efb7fc52727&v=4)

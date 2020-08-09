@@ -2,7 +2,7 @@
 
 # Linha de comando
 
-<img src="imgs/cli/cli.gif" alt="Logo do git" />
+<img src="../imgs/cli/cli.gif" alt="Logo do git" />
 
 
 ## Índice

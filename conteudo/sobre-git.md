@@ -2,7 +2,7 @@
 
 # Git
 
-<img src="imgs/git/gitlogo.png" alt="Logo do git" width="20%" height="20%" />
+<img src="../imgs/git/gitlogo.png" alt="Logo do git" width="20%" height="20%" />
 
 ## Índice
 - [O que é git ?](#o-que-é-git-)
@@ -23,15 +23,15 @@ O Git guarda um histórico de tudo que foi alterado nos arquivos ao longo do tem
 ### Por que é importante ?
 
 **Sabe quando a gente precisa salvar versões de um projeto até chegar na versão de entrega ?**
-<img src="imgs/git/versionamento-oldschool.png" alt="Logo do git"/>
+<img src="../imgs/git/versionamento-oldschool.png" alt="Logo do git"/>
 
 Quando trabalhamos em equipe ou necessitamos de uma organização melhor, fica muito difícil trabalhar com o modelo acima, e é por isso que utilizamos o git:
 
-<img src="imgs/git/git-equipe.png" alt="Logo do git" />
+<img src="../imgs/git/git-equipe.png" alt="Logo do git" />
 
 Com ele, ao invés de criarmos arquivos e versioná-los pelo nome, passamos a versionar pelo histórico do git:
 
-<img src="imgs/git/versionamento-git.png" alt="Logo do git" />
+<img src="../imgs/git/versionamento-git.png" alt="Logo do git" />
 
 Então as vantagens do git são:
 - Organização + histórico das modificações: O git cria uma timeline com tudo que aconteceu desde o início do projeto com informações detalhadas. Tudo que foi adicionado, removido, modificado(**arquivos**), **quando**, **quem** foi o autor e o motivo da alteração(**mensagem do commit**).
@@ -47,19 +47,19 @@ Então as vantagens do git são:
 
 #### Instruções Windows:
 
-<img src="imgs/git/git-page.png" alt="Logo do git" />
+<img src="../imgs/git/git-page.png" alt="Logo do git" />
 
 Instalar o arquivo .exe baixado:
 
-<img src="imgs/git/git-exe.png" alt="Logo do git" />
+<img src="../imgs/git/git-exe.png" alt="Logo do git" />
 
 Abrir o git bash:
 
-<img src="imgs/git/bash-here.png" alt="Logo do git" />
+<img src="../imgs/git/bash-here.png" alt="Logo do git" />
 
 ### Git bash
 
-<img src="imgs/git/gitbash.png" alt="Logo do git" width="20%" height="20%" />
+<img src="../imgs/git/gitbash.png" alt="Logo do git" width="20%" height="20%" />
 
 É um software para utilizar as linhas de comando do git além de alguns outros comandos unix, necessário principalmente no Windows, já que inicialmente o git foi desenvolvido para linux
 
