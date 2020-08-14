@@ -13,6 +13,15 @@ body {
 .container__aluna {
   width: 200px;
   margin: 20px;
+  background: white;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  padding: 24px;
+  margin: 8px;
+  flex-grow: 1;
+
+  text-decoration: none;
+  font-size: 15px;
 }
 
 .container__aluna-img {
